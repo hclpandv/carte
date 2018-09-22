@@ -4,4 +4,4 @@ permalink: ':title'
 pygments: true
 safe: false
 title: 'Carte'
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
