@@ -1,8 +1,8 @@
 ---
 category: Stuff
-path: '/stuff/:id'
-title: 'Cheat Code
-type: 'GET'
+path: '/stuff'
+title: 'Post a thing'
+type: 'POST'
 
 layout: nil
 ---
