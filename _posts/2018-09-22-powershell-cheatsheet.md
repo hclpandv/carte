@@ -10,3 +10,11 @@ layout: nil
 ### PowerShell Cheats
 
 Get-History
+
+```powershell
+if($True){
+  Get-Process | Where-Object {$_.DisplayName -like "*Server*"}
+
+}
+
+```
