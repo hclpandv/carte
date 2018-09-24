@@ -10,6 +10,12 @@ We built **Carte** because the existing options (Swagger and the likes) were try
 
 The real value of **Carte** is its structure for describing APIs, not its underlying technical stack (or lack-thereof). In a nutshell; **we built a static template for your API documentation, feel free to re-use it**.
 
+```Powershell
+#Test Comment
+ Get-Process
+
+```
+
 ## Install
 
 It' Jekyll god dammit:
