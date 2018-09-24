@@ -4,7 +4,7 @@ path: '/stuff'
 title: 'Post a thing'
 type: 'POST'
 
-layout: nil
+layout: default
 ---
 
 ### PowerShell Cheats
@@ -18,3 +18,24 @@ if($True){
 }
 
 ```
+@column
+#### Example 1
+
+```PowerShell
+Get-Process *pr*
+```
+
+@column
+#### Example 2
+
+```PowerShell
+Get-Process *pr*
+```
+
+@column
+#### Example 3
+
+```PowerShell
+Get-Process *pr*
+```
+
