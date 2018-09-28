@@ -4,7 +4,7 @@ path: '/stuff'
 title: 'Post a thing'
 type: 'POST'
 
-layout: nill
+layout: sheet
 ---
 
 ### PowerShell Cheats
